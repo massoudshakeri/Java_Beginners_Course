@@ -1,4 +1,4 @@
-package oop;
+package abstractClass;
 
 public class Salaried extends Employee {
     public static final double DEFAULT_SALARY = 120000;

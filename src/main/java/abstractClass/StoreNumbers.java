@@ -1,4 +1,4 @@
-package oop;
+package abstractClass;
 
 public class StoreNumbers {
     private boolean[] numbers = new boolean[100];

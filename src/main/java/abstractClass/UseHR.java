@@ -1,4 +1,4 @@
-package oop;
+package abstractClass;
 
 public class UseHR {
     public static void main(String[] args) {

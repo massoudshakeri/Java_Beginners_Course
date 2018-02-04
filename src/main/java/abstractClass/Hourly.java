@@ -1,4 +1,4 @@
-package oop;
+package abstractClass;
 
 public class Hourly extends Employee {
     public static final double DEFAULT_RATE = 100;
